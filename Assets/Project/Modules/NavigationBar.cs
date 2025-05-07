@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ShowPanel : MonoBehaviour
+public class NavigationBar : MonoBehaviour
 {
     [System.Serializable]
     private struct NavEntry

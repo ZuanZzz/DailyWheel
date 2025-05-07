@@ -206,7 +206,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1758047151
+--- !u!1001 &1872647696
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -297,45 +297,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3750250843616265941, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 879.3665
-      objectReference: {fileID: 0}
-    - target: {fileID: 3750250843616265941, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 879.3665
-      objectReference: {fileID: 0}
-    - target: {fileID: 3750250843616265941, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3750250843616265941, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5306329132856923536, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5905683811003153579, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -0.4333496
-      objectReference: {fileID: 0}
-    - target: {fileID: 5905683811003153579, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 40
-      objectReference: {fileID: 0}
-    - target: {fileID: 6068590591530090388, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7806907845047666054, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8993854341083849768, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}
       propertyPath: m_Name
-      value: UI
+      value: MainFrame
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80172dd9a71ffa04f9a3834320fc5bb8, type: 3}

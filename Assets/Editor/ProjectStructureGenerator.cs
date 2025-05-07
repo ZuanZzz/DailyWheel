@@ -50,11 +50,11 @@ public class ProjectStructureGenerator
         }
 
         // 创建一些初始文档（可选）
-        CreateTextFile("Documentation/Architecture.md", "# Architecture Design\n\nDescribe your system modules here.");
-        CreateTextFile("Documentation/SetupGuide.md", "# Setup Guide\n\nWrite environment setup instructions here.");
-        CreateTextFile("Documentation/DataFormat.md", "# Data Format\n\nDefine your saved data schema here.");
-        CreateTextFile("Documentation/NativeBridge.md", "# Native Bridge\n\nDocument native API calls here.");
-        CreateTextFile("Documentation/DevLogs/2025-05-06.md", "# Dev Log: 2025-05-06\n\n- Initial setup complete.\n- Structure generated.\n");
+        // CreateTextFile("Documentation/Architecture.md", "# Architecture Design\n\nDescribe your system modules here.");
+        // CreateTextFile("Documentation/SetupGuide.md", "# Setup Guide\n\nWrite environment setup instructions here.");
+        // CreateTextFile("Documentation/DataFormat.md", "# Data Format\n\nDefine your saved data schema here.");
+        // CreateTextFile("Documentation/NativeBridge.md", "# Native Bridge\n\nDocument native API calls here.");
+        // CreateTextFile("Documentation/DevLogs/2025-05-06.md", "# Dev Log: 2025-05-06\n\n- Initial setup complete.\n- Structure generated.\n");
 
         AssetDatabase.Refresh();
         Debug.Log("✅ Project folder structure generated!");
